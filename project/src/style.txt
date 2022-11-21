@@ -1,0 +1,5 @@
+2095A2 -->light color
+
+  background-color: #00838F; --> dark color;
+
+  logo img --> https://www.putatoe.com/img/logo.png
